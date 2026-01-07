@@ -6,7 +6,7 @@ Here are some of the things I'm currently working on and learning.
 <ul>
 <li>JavaScript -> TypeScript</li>
 <li>Database Design (SQL and NoSQL)</li>
-<li>React</li> 
+<li>React.js</li> 
 <li>Python as a backend (FastAPI, Flask)</li> 
 </ul>
 
