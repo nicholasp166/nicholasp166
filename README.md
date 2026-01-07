@@ -1,16 +1,18 @@
-## Hi there 👋
+<h3>Hello! 👋 my name is Nicholas, this is my github portfolio.</h3>
 
-<!--
-**nicholasp166/nicholasp166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently a web developer at <b>Homeyer Consulting Services</b> <i>(2023 - Present)</i>
 
-Here are some ideas to get you started:
+Here are some of the things I'm currently working on and learning.
+<ul>
+<li>JavaScript -> TypeScript</li>
+<li>Database Design (SQL and NoSQL)</li>
+<li>React</li> 
+<li>Python as a backend (FastAPI, Flask)</li> 
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Links:</h3>
+<ul>
+  <li>LinkedIn:</li>
+  <li>github:</li>
+  <li>Personal:</li>
+</ul>
