@@ -12,7 +12,7 @@ Here are some of the things I'm currently working on and learning.
 
 <h3>Links:</h3>
 <ul>
-  <li>LinkedIn:</li>
-  <li>github:</li>
-  <li>Personal:</li>
+  <li><a href="https://www.linkedin.com/in/nicholas-p-a7b8a41ba/">LinkedIn</a></li>
+  <li><a href="https://github.com/nicholasp166/">github</a></li>
+  <li><a href="https://np166.vercel.app/">Personal - np166.vercel.app</a> </li>
 </ul>
