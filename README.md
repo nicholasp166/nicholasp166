@@ -7,7 +7,7 @@ Here are some of the things I'm currently working on and learning.
 <li>JavaScript -> TypeScript</li>
 <li>Database Design (SQL and NoSQL)</li>
 <li>React.js</li> 
-<li>Python as a backend (FastAPI, Flask)</li> 
+<li>Python as a backend, currently using with FastAPI</li> 
 <li>Express, Hono as backend options</li>
 </ul>
 
