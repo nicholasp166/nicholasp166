@@ -1,6 +1,6 @@
 <h3>Hello! 👋 my name is Nicholas, this is my github portfolio.</h3>
 
-Currently a web developer at <b>Homeyer Consulting Services</b> <i>(2023 - Present)</i>
+Currently pursuing web development with an interest on backend learning full-stack.
 
 Here are some of the things I'm currently working on and learning.
 <ul>
