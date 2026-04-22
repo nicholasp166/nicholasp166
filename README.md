@@ -1,14 +1,12 @@
 <h3>Hello! 👋 my name is Nicholas, this is my github portfolio.</h3>
 
-Currently pursuing web development with an interest on backend learning full-stack.
+Full-stack developer with a backend focus and a drive to learn more.
 
 Here are some of the things I'm currently working on and learning.
 <ul>
-<li>JavaScript -> TypeScript</li>
-<li>Database Design (SQL and NoSQL)</li>
-<li>React.js</li> 
-<li>Python as a backend, currently using with FastAPI</li> 
-<li>Django,Express, Hono as backend options</li>
+<li>Full stack development with JS and Python.</li>
+<li>Maximizing use of AI Agents </li>
+<li>Starting a Master's in Computer Science</li>
 </ul>
 
 <h3>Links:</h3>
